@@ -1,9 +1,9 @@
 {
   "machineId": "228f5ba2-12cf-4fd0-978e-47ea52e8d5d6",
   "fingerprint": "25E4202AA58CF798",
-  "tier": "PRO",
-  "status": "PRO_ACTIVATED",
-  "issuedAt": "2026-11-26T03:52:48.546Z",
-  "expiresAt": "2026-12-03T03:52:48.546Z",
-  "sig": "xNdJUAlpoz4Zxdg1RHchp00lhSZVH9xGF4OOb15s79df4bgjaTx630zEwhvcUyIruvgZ6HD2lrzJVk2YPDGRDA=="
+  "tier": "BASE",
+  "status": "NONE",
+  "issuedAt": "2026-11-26T03:54:03.214Z",
+  "expiresAt": "2026-12-03T03:54:03.214Z",
+  "sig": "YvgaWN3P2vCby2Nb/x5gqg8UCVUGuTVAdthVX0aFqd2pSon1P2BVzUi+INZYe7+/p5yGU1tDXxUydmTQk8tVCw=="
 }
