@@ -1,9 +1,1 @@
-{
-  "machineId": "228f5ba2-12cf-4fd0-978e-47ea52e8d5d6",
-  "fingerprint": "25E4202AA58CF798",
-  "tier": "BASE",
-  "status": "BASE_ACTIVATED",
-  "issuedAt": "2026-11-26T13:42:04.565Z",
-  "expiresAt": "2026-12-03T13:42:04.565Z",
-  "sig": "LsBvSZuY9uQz0kb1xFJi9hG7pl1RI47J4fQ7QKsb29LjMK2L69bb4JglIoYBIv6IjuzGyoB6I8jFt9mVaxIjBg=="
-}
+{"machineId":"228f5ba2-12cf-4fd0-978e-47ea52e8d5d6","fingerprint":"25E4202AA58CF798","tier":"PRO","issuedAt":"2026-11-27T11:42:50.355Z","expiresAt":"2026-12-11T11:42:50.355Z","sig":"kRSfxQlyut8NhNrXApPagQy//9cHByd5Kh+5Z26v0kRJrVu2KK3WDMtaxrpAQ9kkBmAJybXtpBpT3CiULUB6AA=="}
